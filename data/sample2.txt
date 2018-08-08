@@ -1,0 +1,4 @@
+srihari, 32, mallampally
+prasad, 29, husnabad
+gs, 20, karimnagar
+sri, 22, hyderabad
